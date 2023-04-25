@@ -1,0 +1,19 @@
+.task-card{
+    display: flex;
+    flex-direction: row;
+    background-color: darkturquoise;
+    margin: 1rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    justify-content: space-between;
+}
+
+.task-card-info{
+    display: flex;
+    flex-direction: column;
+}
+
+.task-card-actions{
+    display: flex;
+    flex-direction: column;
+}

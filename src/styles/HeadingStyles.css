@@ -1,0 +1,15 @@
+.heading-container{
+    display: flex;
+    padding: 1rem;
+    flex-direction: column;
+}
+
+.heading-actions{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.heading-content{
+    display: flex;
+}
